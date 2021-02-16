@@ -15,7 +15,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20210210192628-66670185b0cd
 	k8s.io/apimachinery v0.20.2
 	k8s.io/client-go v11.0.1-0.20190816222228-6d55c1b1f1ca+incompatible
-	sigs.k8s.io/controller-runtime v0.6.4
+	sigs.k8s.io/controller-runtime v0.8.2
 )
 
 replace (
